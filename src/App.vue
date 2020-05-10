@@ -78,6 +78,7 @@ body {
 
 #app {
   background-image: url('./assets/cold-bg.jpg');
+  justify-content: center;
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
@@ -90,8 +91,7 @@ body {
 main {
   min-height: 100vh;
   padding: 25px;
-
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75));
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
 }
 
 .search-box {
@@ -166,4 +166,5 @@ main {
   font-style: italic;
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
+
 </style>
