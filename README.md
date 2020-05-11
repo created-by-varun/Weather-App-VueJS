@@ -2,6 +2,8 @@
 View live site: https://weatherapp-vuejs.netlify.app/  
 
 ### Preview: 
+![preview1.png](preview1.png)
+![preview2.png](preview2.png)
 
 ## Project setup
 ```
