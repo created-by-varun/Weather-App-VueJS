@@ -1,4 +1,7 @@
-# vue-weather
+# VueJS Weather App  
+View live site: https://weatherapp-vuejs.netlify.app/  
+
+### Preview: 
 
 ## Project setup
 ```
